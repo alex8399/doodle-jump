@@ -50,14 +50,14 @@ The plot repeats the popular mobile game Doodle Jump: Doodle jumps and aims to r
 
 ### Installation
 
-**Clone the repository**
+1. **Clone the repository**
 
 ```bash
 git clone https://github.com/alex8399/doodle-jump.git
 cd doodle-jump
 ```
 
-**Build**
+2. **Build**
 ```bash
 #For MacOs (sudo may be required):
 zsh gradlew runGame  
