@@ -69,6 +69,6 @@ bash gradlew runGame```
 .\gradlew runGame
 ```
 
-## How to play
+### How to play
 
 Easy! Just use ```<-``` and ```->``` keys to move the doodle and jump as high as you can. Your score will be saved. You can use ```esc``` to return to the main menu.
