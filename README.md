@@ -63,7 +63,7 @@ cd doodle-jump
 zsh gradlew runGame  
 
 #For Linux (sudo may be required):
-bash gradlew runGame```
+bash gradlew runGame
 
 #For Windows:
 .\gradlew runGame
