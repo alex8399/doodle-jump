@@ -13,7 +13,7 @@ The plot repeats the popular mobile game Doodle Jump: Doodle jumps and aims to r
 
 ## Backlog
 
- 1.**Render the main screen with a play button.**
+1. **Render the main screen with a play button.**
 
     After app staring, the main screen should show up with a play button and the initial picture.
 
