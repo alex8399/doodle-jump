@@ -1,40 +1,15 @@
-# Doodle jump game
-
-Study project which was made in collaboration with [Ivan Bondarev](https://github.com/iyubondyrev) at Eindhoven University of Technology.
-
-### How to build and run
-
-Easy! Just do the following command in the main game (/doodle_jump) directory: 
-
-For MacOs:
-
-
-```zsh gradlew runGame``` (sudo may be required)   
-
-For Linux:
-
-```bash gradlew runGame``` (sudo may be required) 
-
-For Windows:
-
-```.\gradlew runGame``` 
-
-
-### How to play
-
-Easy! Just use <- and -> keys to move the doodle and jump as high as you can, your score will be saved. You can use *esc* to return to the main menu.
-
-
-## Topics which learning goals we cover
-* Cradle
-* Git
-* Object-oriented programming
+# Computer game Doodle Jump
+The plot repeats the popular mobile game Doodle Jump: Doodle jumps and aims to reach the highest point. The project was developed on Java. Swing Framework was used for graphics.
 
 ## Game features
 * The Doodle jumps from one platform to another platform.
 * The Doodle is teleported to the other border of the screen when it reaches the opposite one.
 * The main goal is to reach the highest point by jumping.
 * Game saves user's best result.
+
+## Images
+
+![Images](/images/image01.jpg)
 
 ## Backlog
 
@@ -61,3 +36,39 @@ Easy! Just use <- and -> keys to move the doodle and jump as high as you can, yo
 6. **Show screen with the highest score.**
 
     After the end of the game screen should be rendered with the user’s score.
+
+## Used technologies
+* Java
+* Swing
+* Gradle
+
+## Team
+* [Aleksandr Vardanian](https://github.com/alex8399)
+* [Ivan Bondyrev](https://github.com/iyubondyrev)
+
+## How to run
+
+### Installation
+
+**Clone the repository**
+
+```bash
+git clone https://github.com/alex8399/doodle-jump.git
+cd doodle-jump
+```
+
+**Build**
+```bash
+#For MacOs (sudo may be required):
+zsh gradlew runGame  
+
+#For Linux (sudo may be required):
+bash gradlew runGame```
+
+#For Windows:
+.\gradlew runGame
+```
+
+## How to play
+
+Easy! Just use ```<-``` and ```->``` keys to move the doodle and jump as high as you can. Your score will be saved. You can use ```esc``` to return to the main menu.
