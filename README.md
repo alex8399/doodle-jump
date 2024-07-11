@@ -9,7 +9,7 @@ The plot repeats the popular mobile game Doodle Jump: Doodle jumps and aims to r
 
 ## Images
 
-![Images](/images/image01.jpg)
+![Images](/images/image01.png)
 
 ## Backlog
 
