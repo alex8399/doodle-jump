@@ -1,5 +1,5 @@
 # Computer game Doodle Jump
-The plot repeats the popular mobile game Doodle Jump: Doodle jumps and aims to reach the highest point. The project was developed on Java. Swing Framework was used for graphics.
+The plot mirrors the popular mobile game Doodle Jump: Doodle jumps and aims to reach the highest point. The project was developed in Java, using the Swing Framework for graphics.
 
 ## Game features
 * The Doodle jumps from one platform to another platform.
